@@ -1,0 +1,22 @@
+# Build output directories
+/target/
+/build/
+
+# IDE files (IntelliJ, VS Code, etc.)
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+
+# Package files
+*.jar
+*.war
+*.zip
+
+# Database files (H2 and temporary files)
+*.mv.db
+*.trace.db
+
+# Logs
+*.log
